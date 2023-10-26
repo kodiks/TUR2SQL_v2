@@ -8,5 +8,5 @@ TUR2SQL dataset consists of 10,809 pairs of natural language statements and thei
 	    booktitle   = {2023 8th International Conference on Computer Science and Engineering (UBMK)},
 	    year      	= {2023},
 	    pages       = {206-211},
-      doi         = {10.1109/UBMK59864.2023.10286686}
+	    doi         = {10.1109/UBMK59864.2023.10286686}
 	} 
