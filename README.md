@@ -1,4 +1,10 @@
-# TUR2SQL: A Cross-Domain Turkish Dataset For Text-to-SQL
+# TUR2SQL - Version 2
+
+## Updates:
+- **"data.tables_extend.jsonl"** file was created. In this file, the TableName value was manually updated to correspond to TableID.
+
+## Original Dataset:
+### TUR2SQL: A Cross-Domain Turkish Dataset For Text-to-SQL
 
 TUR2SQL dataset consists of 10,809 pairs of natural language statements and their corresponding SQL queries. The generation of TUR2SQL is detailed in our UBMK-2023 [paper](https://ieeexplore.ieee.org/abstract/document/10286686):
 
