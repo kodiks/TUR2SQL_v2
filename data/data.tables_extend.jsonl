@@ -1,0 +1,47 @@
+{"header_tok": [["numara"], ["ad"]], "name": "yazarlar", "header": ["numara", "ad"], "id": "100000"}
+{"header_tok": [["numara"], ["ad"]], "name": "konferanslar", "header": ["numara", "ad"], "id": "100001"}
+{"header_tok": [["numara"], ["ad"]], "name": "dergiler", "header": ["numara", "ad"], "id": "100002"}
+{"header_tok": [["numara"], ["yayinci"], ["baslik"], ["yil"], ["alinti"]], "name": "yayinlar", "header": ["numara", "yayinci", "baslik", "yil", "alinti"], "id": "100003"}
+{"header_tok": [["numara"], ["ad"], ["yas"], ["cinsiyet"]], "name": "pilotlar", "header": ["numara", "ad", "yas", "cinsiyet"], "id": "100004"}
+{"header_tok": [["numara"], ["aciklama"], ["hiz"], ["toplam", "yolcu"]], "name": "ucaklar", "header": ["numara", "aciklama", "hiz", "toplam_yolcu"], "id": "100005"}
+{"header_tok": [["numara"], ["ad"], ["uluslararasi", "yolcu"], ["ic", "yolcu"], ["toplam", "ucak"]], "name": "havalimanlari", "header": ["numara", "ad", "uluslararasi_yolcu", "ic_yolcu", "toplam_ucak"], "id": "100006"}
+{"header_tok": [["numara"], ["ad"], ["uyruk"], ["cinsiyet"]], "name": "mimarlar", "header": ["numara", "ad", "uyruk", "cinsiyet"], "id": "100007"}
+{"header_tok": [["numara"], ["ad"], ["konum"], ["uzunluk"]], "name": "kopruler", "header": ["numara", "ad", "konum", "uzunluk"], "id": "100008"}
+{"header_tok": [["numara"], ["ad"], ["boy"], ["kilo"], ["dogum", "tarihi"]], "name": "insanlar", "header": ["numara", "ad", "boy", "kilo", "dogum_tarihi"], "id": "100009"}
+{"header_tok": [["numara"], ["baslik"], ["yazar"], ["kategori"]], "name": "kitaplar", "header": ["numara", "baslik", "yazar", "kategori"], "id": "100010"}
+{"header_tok": [["numara"], ["model"], ["ulke"], ["yil"], ["beygir", "gucu"]], "name": "arabalar", "header": ["numara", "model", "ulke", "yil", "beygir_gucu"], "id": "100011"}
+{"header_tok": [["numara"], ["baslik"], ["yonetmen"]], "name": "filmler", "header": ["numara", "baslik", "yonetmen"], "id": "100012"}
+{"header_tok": [["numara"], ["ad"], ["kapasite"], ["yer"]], "name": "sinemalar", "header": ["numara", "ad", "kapasite", "yer"], "id": "100013"}
+{"header_tok": [["numara"], ["ad"], ["soyad"], ["yas"], ["cinsiyet"], ["sehir"]], "name": "ogrenciler", "header": ["numara", "ad", "soyad", "yas", "cinsiyet", "sehir"], "id": "100014"}
+{"header_tok": [["numara"], ["ad"]], "name": "kulupler", "header": ["numara", "ad"], "id": "100015"}
+{"header_tok": [["numara"], ["ad"], ["soyad"], ["cinsiyet"], ["maas"]], "name": "calisanlar", "header": ["numara", "ad", "soyad", "cinsiyet", "maas"], "id": "100016"}
+{"header_tok": [["numara"], ["ad"]], "name": "departmanlar", "header": ["numara", "ad"], "id": "100017"}
+{"header_tok": [["numara"], ["ad"], ["baslangic", "tarihi"]], "name": "projeler", "header": ["numara", "ad", "baslangic_tarihi"], "id": "100018"}
+{"header_tok": [["numara"], ["ad"], ["kredi"]], "name": "dersler", "header": ["numara", "ad", "kredi"], "id": "100019"}
+{"header_tok": [["numara"], ["ad"], ["yas"], ["sehir"]], "name": "ogretmenler", "header": ["numara", "ad", "yas", "sehir"], "id": "100020"}
+{"header_tok": [["numara"], ["ad"], ["soyad"], ["cinsiyet"], ["telefon"], ["eposta"]], "name": "personeller", "header": ["numara", "ad", "soyad", "cinsiyet", "telefon", "eposta"], "id": "100021"}
+{"header_tok": [["numara"], ["sehir"], ["eposta"], ["telefon"], ["kod"]], "name": "musteriler", "header": ["numara", "sehir", "eposta", "telefon", "kod"], "id": "100022"}
+{"header_tok": [["numara"], ["kod"], ["fiyat"]], "name": "urunler", "header": ["numara", "kod", "fiyat"], "id": "100023"}
+{"header_tok": [["numara"], ["cihaz"], ["versiyon"], ["isletim", "sistemi"]], "name": "cihazlar", "header": ["numara", "cihaz", "versiyon", "isletim_sistemi"], "id": "100024"}
+{"header_tok": [["numara"], ["ad"], ["konum"], ["acilis", "yili"]], "name": "magazalar", "header": ["numara", "ad", "konum", "acilis_yili"], "id": "100025"}
+{"header_tok": [["numara"], ["miktar"]], "name": "stoklar", "header": ["numara", "miktar"], "id": "100026"}
+{"header_tok": [["numara"], ["ad"], ["alan"], ["nufus"]], "name": "sehirler", "header": ["numara", "ad", "alan", "nufus"], "id": "100027"}
+{"header_tok": [["numara"], ["kod"], ["baslangic"], ["varis"], ["mesafe"], ["kalkis", "tarihi"], ["varis", "tarihi"]], "name": "ucuslar", "header": ["numara", "kod", "baslangic", "varis", "mesafe", "kalkis_tarihi", "varis_tarihi"], "id": "100028"}
+{"header_tok": [["numara"], ["kod"], ["tip"], ["ad"], ["soyad"], ["uyruk"]], "name": "suruculer", "header": ["numara", "kod", "tip", "ad", "soyad", "uyruk"], "id": "100029"}
+{"header_tok": [["numara"], ["ad"], ["yil"], ["tur"], ["tarih"]], "name": "yarislar", "header": ["numara", "ad", "yil", "tur", "tarih"], "id": "100030"}
+{"header_tok": [["numara"], ["ad"], ["kategori"]], "name": "oyunlar", "header": ["numara", "ad", "kategori"], "id": "100031"}
+{"header_tok": [["numara"], ["ad"], ["telefon"], ["sigorta"]], "name": "hastalar", "header": ["numara", "ad", "telefon", "sigorta"], "id": "100032"}
+{"header_tok": [["numara"], ["ad"], ["pozisyon"], ["kayit"]], "name": "hemsireler", "header": ["numara", "ad", "pozisyon", "kayit"], "id": "100033"}
+{"header_tok": [["numara"], ["tarih"]], "name": "randevular", "header": ["numara", "tarih"], "id": "100034"}
+{"header_tok": [["numara"], ["ad"], ["personel", "sayisi"], ["acilis", "yili"]], "name": "muzeler", "header": ["numara", "ad", "personel_sayisi", "acilis_yili"], "id": "100035"}
+{"header_tok": [["numara"], ["ad"], ["sanatci"], ["dil"], ["cikis", "tarihi"], ["tur"], ["ulke"]], "name": "sarkilar", "header": ["numara", "ad", "sanatci", "dil", "cikis_tarihi", "tur", "ulke"], "id": "100036"}
+{"header_tok": [["numara"], ["ad"], ["ulke"], ["cinsiyet"]], "name": "sanatcilar", "header": ["numara", "ad", "ulke", "cinsiyet"], "id": "100037"}
+{"header_tok": [["numara"], ["model"], ["ulke"], ["cip", "modeli"], ["ekran", "modu"]], "name": "telefonlar", "header": ["numara", "model", "ulke", "cip_modeli", "ekran_modu"], "id": "100038"}
+{"header_tok": [["numara"], ["ad"], ["uyruk"]], "name": "oyuncular", "header": ["numara", "ad", "uyruk"], "id": "100039"}
+{"header_tok": [["numara"], ["demiryolu"], ["kurucu"], ["konum"]], "name": "demiryollari", "header": ["numara", "demiryolu", "kurucu", "konum"], "id": "100040"}
+{"header_tok": [["numara"], ["ad"], ["kalkis"], ["varis"]], "name": "trenler", "header": ["numara", "ad", "kalkis", "varis"], "id": "100041"}
+{"header_tok": [["numara"], ["ad"], ["ulke"], ["yas"], ["duzey"]], "name": "yoneticiler", "header": ["numara", "ad", "ulke", "yas", "duzey"], "id": "100042"}
+{"header_tok": [["numara"], ["ad"], ["derece"], ["tip"]], "name": "restoranlar", "header": ["numara", "ad", "derece", "tip"], "id": "100043"}
+{"header_tok": [["numara"], ["ad"], ["uyruk"]], "name": "yuzuculer", "header": ["numara", "ad", "uyruk"], "id": "100044"}
+{"header_tok": [["numara"], ["ad"], ["kapasite"], ["sehir"], ["acilis", "yili"]], "name": "stadyumlar", "header": ["numara", "ad", "kapasite", "sehir", "acilis_yili"], "id": "100045"}
+{"header_tok": [["numara"], ["at", "sayisi"], ["boga", "sayisi"], ["inek", "sayisi"], ["domuz", "sayisi"], ["koyun", "sayisi"], ["keci", "sayisi"]], "name": "ciftlikler", "header": ["numara", "at_sayisi", "boga_sayisi", "inek_sayisi", "domuz_sayisi", "koyun_sayisi", "keci_sayisi"], "id": "100046"}
